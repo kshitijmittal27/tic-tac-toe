@@ -27,7 +27,7 @@ function App() {
         let winner = checkWinner();
         if (winner) {
             clearGame();
-            alert(` ${winner} WON THE GAME !`)
+            alert(` ${winner} WON the GAME !`)
         }
     }, )
 
